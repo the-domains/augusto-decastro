@@ -1,21 +1,27 @@
 ---
+inFeed: true
+hasPage: false
+inNav: false
+isBasedOnUrl: 'urn:uuid:1fca0ec7-af5d-44b4-9f12-c22599738845'
+inLanguage: null
+starred: false
+keywords: []
 description: ''
+datePublished: '2016-02-28T23:54:47.046Z'
+dateModified: '2016-02-28T23:53:51.414Z'
 author: []
-datePublished: '2016-02-28T23:42:47.820Z'
-publisher:
-  domain: ''
-  name: ''
 title: Swimming at Manoa Pool
-dateModified: '2016-02-28T23:41:00.199Z'
 sourcePath: _posts/2016-02-28-swimming-at-manoa-pool.md
 published: true
-inFeed: true
-hasPage: true
-inNav: false
-url: swimming-at-manoa-pool/index.html
+authors: []
+publisher:
+  name: ''
+  domain: ''
+  url: null
+  favicon: null
 _context: 'http://schema.org'
 _type: Article
 
 ---
 # Swimming at Manoa Pool
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/526fa66c-89da-4fb6-b1e9-2e1da305a8cc.png)
+![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/c1e3659cba8225b9aca9df7611130fab7676bb01.png)
