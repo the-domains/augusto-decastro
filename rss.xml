@@ -4,8 +4,15 @@
         <description><![CDATA[Testing Site]]></description>
         <link>https://thegrid.ai/augusto-decastro/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sun, 28 Feb 2016 20:34:22 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 28 Feb 2016 20:35:00 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/augusto-decastro/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Yeah, Baby!]]></title>
+            <description><![CDATA[<article><h1>Yeah, Baby!</h1><p>Finally got access to The Grid beta! </p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/b59f99cbd19c66a88c5e6c77bcc0730ae5a49d75.jpg"></article>]]></description>
+            <link>https://thegrid.ai/augusto-decastro/yeah-baby/index.html</link>
+            <guid isPermaLink="false">788282be-fcae-4392-9a7e-7aeaec8483aa</guid>
+            <pubDate>Sun, 28 Feb 2016 20:34:49 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Where]]></title>
             <description><![CDATA[<article><h1>Where</h1><p>Hawaii is my current home.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/5b61abc08addb425f40467ad9e1241ec18e0b8e4.jpg"></article>]]></description>
