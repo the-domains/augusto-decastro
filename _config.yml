@@ -1,4 +1,4 @@
-name: Test Site
+name: Augusto Decastro
 favicon: null
 layout_spectrum: 0.24756
 typography_spectrum: 0.69547
@@ -17,13 +17,13 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#1f2022'
-    - '#e4e4d8'
-    - '#3e5d8c'
-    - '#fd5049'
-    - '#21b56e'
-  brandStrength: 0.75
-  lightness: 0.75
-  saturation: 0.25
-  rhythmicContrast: 0.25
+    - '#1c2510'
+    - '#de3f21'
+    - '#f7d166'
+    - '#71f0df'
+    - '#79a266'
+  brandStrength: 0.5
+  lightness: 0.625
+  saturation: 0.3125
+  rhythmicContrast: 0.75
 purpose: []
