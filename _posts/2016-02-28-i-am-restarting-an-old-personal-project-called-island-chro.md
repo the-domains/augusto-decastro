@@ -7,8 +7,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2016-02-29T00:09:54.494Z'
-dateModified: '2016-02-28T23:29:30.900Z'
+datePublished: '2016-02-29T00:13:06.777Z'
+dateModified: '2016-02-29T00:10:02.305Z'
 author:
   - name: augusto_photo
     url: 'https://www.instagram.com/augusto_photo'
@@ -42,4 +42,4 @@ _type: Photograph
 _context: 'http://schema.org'
 
 ---
-![I am &lpar;re&rpar;starting an old personal project called Island Chronicles where I will keep writing about my outdoor adventures in Hawaii&period; In addition I am also going to write about physical fitness activities you can do to stay active in the islands&period; Since I am a student in the GoFarm Hawaii program&comma; I also hope to provide useful information about growing your own food&period; Follow the link below to subscribe to my newsletter or simply tune in to this feed and other social media channels&period; http&colon;&sol;&sol;www&period;augustodecastro&period;com&sol;subscribe&sol; Mahalo for your support&excl;](https://scontent.cdninstagram.com/t51.2885-15/s640x640/sh0.08/e35/12555858_533989413448745_969090788_n.jpg?ig_cache_key=MTE4MDIwMjUzMDU5NDAxNTAxMQ%3D%3D.2)
+![I am (re)starting an old personal project called Island Chronicles where I will keep writing about my outdoor adventures in Hawaii. In addition I am also going to write about physical fitness activities you can do to stay active in the islands. Since I am a student in the GoFarm Hawaii program, I also hope to provide useful information about growing your own food. Follow the link below to subscribe to my newsletter or simply tune in to this feed and other social media channels. http://www.augustodecastro.com/subscribe/ Mahalo for your support!](https://s3-us-west-2.amazonaws.com/the-grid-img/p/faaabe66dad00aeb3f8a5b63e8244780393ad190.jpg)
