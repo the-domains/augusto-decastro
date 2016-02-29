@@ -1,15 +1,19 @@
 ---
+inFeed: true
+hasPage: false
+inNav: false
+isBasedOnUrl: 'https://www.instagram.com/p/BBg6_LXEscj/'
+inLanguage: null
+starred: false
+keywords: []
+description: ''
+datePublished: '2016-02-29T00:09:54.494Z'
+dateModified: '2016-02-28T23:29:30.900Z'
 author:
   - name: augusto_photo
     url: 'https://www.instagram.com/augusto_photo'
     avatar: {}
 related: []
-publisher:
-  url: 'https://www.instagram.com'
-  name: Instagram
-  favicon: 'https://instagramstatic-a.akamaihd.net/h1/images/ico/favicon.ico/7cdab0872b15.ico'
-  domain: www.instagram.com
-keywords: []
 app_links:
   - url: 'instagram://media?id=1180202530594015011'
     type: ios
@@ -25,15 +29,15 @@ app_links:
     package: com.instagram.android
     namespace: google
     type: android
-isBasedOnUrl: 'https://www.instagram.com/p/BBg6_LXEscj/'
 title: 'I am (re)starting an old personal project called Island Chronicles where I will keep writing about my outdoor adventures in Hawaii. In addition I am also going to write about physical fitness activities you can do to stay active in the islands. Since I am a student in the GoFarm Hawaii program, I also hope to provide useful information about growing your own food. Follow the link below to subscribe to my newsletter or simply tune in to this feed and other social media channels. http://www.augustodecastro.com/subscribe/ Mahalo for your support!'
-datePublished: '2016-02-28T23:29:22.728Z'
-dateModified: '2016-02-28T23:28:39.547Z'
+authors: []
+publisher:
+  name: Instagram
+  domain: www.instagram.com
+  url: 'https://www.instagram.com'
+  favicon: 'https://instagramstatic-a.akamaihd.net/h1/images/ico/favicon.ico/7cdab0872b15.ico'
 sourcePath: _posts/2016-02-28-i-am-restarting-an-old-personal-project-called-island-chro.md
 published: true
-inFeed: true
-hasPage: false
-inNav: false
 _type: Photograph
 _context: 'http://schema.org'
 
